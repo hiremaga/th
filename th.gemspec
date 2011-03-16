@@ -13,6 +13,8 @@ Gem::Specification.new do |s|
   s.description = %q{My personal utility belt of Ruby methods and extensions I seem to add to projects over and over.}
 
   s.rubyforge_project = "th"
+  
+  s.add_development_dependency "rspec"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
