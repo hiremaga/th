@@ -2,7 +2,7 @@ require 'th/integer'
 
 describe Th::Integer do
   it "should include itself into #{Integer}" do
-    Integer.ancestors.should include(Integer)
+    Integer.ancestors.should include(Th::Integer)
   end
 
   describe '#to_index, #th, #rd and #st' do
