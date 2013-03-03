@@ -9,8 +9,9 @@ Gem::Specification.new do |s|
   s.authors     = ["Abhijit Hiremagalur"]
   s.email       = ["abhijit@hiremaga.com"]
   s.homepage    = ""
-  s.summary     = %q{My personal utility belt of Ruby methods and extensions I seem to add to projects over and over.}
-  s.description = %q{My personal utility belt of Ruby methods and extensions I seem to add to projects over and over.}
+  s.summary     = %q{A somewhat arbitrary collection of Refinements to core Ruby classes}
+  s.description = %q{A somewhat arbitrary collection of Refinements to core Ruby classes}
+  s.required_ruby_version = '>= 2.0.0'
 
   s.rubyforge_project = "th"
   
