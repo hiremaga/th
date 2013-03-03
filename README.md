@@ -1,4 +1,4 @@
-th [![Build Status](https://travis-ci.org/hiremaga/th.png)](https://travis-ci.org/hiremaga/th) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/hiremaga/th)
+th [![Build Status](https://travis-ci.org/hiremaga/th.png)](https://travis-ci.org/hiremaga/th) [![Code Climate](https://codeclimate.com/github/hiremaga/th.png)](https://codeclimate.com/github/hiremaga/th)
 ==
 
 
