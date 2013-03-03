@@ -10,5 +10,9 @@ describe Integer do
       3.rd.should == 2
       10.th.should == 9
     end
+
+    it "should, very strangely, not actually respond to :th etc." do
+      1.should_not respond_to(:th)
+    end
   end
 end
